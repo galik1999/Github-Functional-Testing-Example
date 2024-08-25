@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AllRepositoriesExist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>beea95b6-d373-4662-9392-9fd5c8f97b7f</testCaseGuid>
+</TestCaseEntity>

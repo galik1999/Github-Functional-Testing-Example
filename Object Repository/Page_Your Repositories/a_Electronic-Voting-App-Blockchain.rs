@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Electronic-Voting-App-Blockchain</name>
+   <tag></tag>
+   <elementGuidId>35f01b1f-e597-47af-9411-4bac5e1645ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user-repositories-list']/ul/li/div/div/h3/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.wb-break-all > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d1d3fae-8d84-4c9e-86fd-7a6d63b52e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/galik1999/Electronic-Voting-App-Blockchain</value>
+      <webElementGuid>b9f35a4a-0636-4923-8f61-e5932807791a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>name codeRepository</value>
+      <webElementGuid>2033ea57-464a-49b8-9f80-1fa79ae45b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Electronic-Voting-App-Blockchain</value>
+      <webElementGuid>e85ead40-dcd8-45df-a1d2-d98587c4544d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-repositories-list&quot;)/ul[1]/li[@class=&quot;col-12 d-flex flex-justify-between width-full py-4 border-bottom color-border-muted private source&quot;]/div[@class=&quot;col-10 col-lg-9 d-inline-block&quot;]/div[@class=&quot;d-inline-block mb-1&quot;]/h3[@class=&quot;wb-break-all&quot;]/a[1]</value>
+      <webElementGuid>84c30d77-f3de-4446-a765-be3a2b7e966c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user-repositories-list']/ul/li/div/div/h3/a</value>
+      <webElementGuid>af0f57e3-5fcb-484e-9f50-745f6d6ade5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Electronic-Voting-App-Blockchain')]</value>
+      <webElementGuid>c9b1bd96-6dbc-4988-8c7c-941f47192f99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stars'])[3]/following::a[2]</value>
+      <webElementGuid>fa4f0ecf-7b94-4cc9-82a3-49492db6ac7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[2]/preceding::a[1]</value>
+      <webElementGuid>45818c5e-0efe-424d-a217-85ee2d1d7113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Electronic-Voting-App-Blockchain']/parent::*</value>
+      <webElementGuid>16962fab-f2f1-41be-9245-00728e8e4a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/galik1999/Electronic-Voting-App-Blockchain')]</value>
+      <webElementGuid>178d9e80-664c-44b0-bf9e-6cd361a09786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a</value>
+      <webElementGuid>6214cbb0-30b9-4c94-a339-01448e2c6397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/galik1999/Electronic-Voting-App-Blockchain' and (text() = '
+        Electronic-Voting-App-Blockchain' or . = '
+        Electronic-Voting-App-Blockchain')]</value>
+      <webElementGuid>f6f0c75e-860c-4b15-b9c3-7dbd62c5a0ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

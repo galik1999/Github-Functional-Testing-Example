@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>userProfileImageExists</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>021608e5-c6f2-403f-9eb7-6a60abc28465</testCaseGuid>
+</TestCaseEntity>

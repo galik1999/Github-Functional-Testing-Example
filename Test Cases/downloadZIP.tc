@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>downloadZIP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>469cf2b6-6ccb-4184-9c86-c309b9241195</testCaseGuid>
+</TestCaseEntity>
